@@ -1,0 +1,28 @@
+_repo: The-Story-of-the-Nations--Portugal_45581
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45581-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Stephens, H. Morse (Henry Morse)
+    alias: Stephens, Henry Morse
+    birthdate: 1857
+    deathdate: 1919
+    gutenberg_agent_id: '35077'
+    url: http://www.gutenberg.org/2009/agents/35077
+    wikipedia: http://en.wikipedia.org/wiki/H._Morse_Stephens
+description: ''
+gutenberg_issued: '2014-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portugal -- History'
+- !lcc 'DP'
+title: 'The Story of the Nations: Portugal'
+url: http://www.gutenberg.org/ebooks/45581
