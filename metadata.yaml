@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35077
     wikipedia: http://en.wikipedia.org/wiki/H._Morse_Stephens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45581#The-Story-of-the-Nations--Portugal
 gutenberg_issued: '2014-05-04'
 gutenberg_type: Text
 identifiers:
